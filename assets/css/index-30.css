@@ -1,0 +1,14 @@
+
+#slider-779830220 .flickity-slider > * {
+  max-width: 66.6667%!important;
+}
+@media (min-width:550px) {
+  #slider-779830220 .flickity-slider > * {
+    max-width: 50%!important;
+  }
+}
+@media (min-width:850px) {
+  #slider-779830220 .flickity-slider > * {
+    max-width: 25%!important;
+  }
+}

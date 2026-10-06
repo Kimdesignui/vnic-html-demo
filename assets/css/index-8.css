@@ -1,0 +1,26 @@
+
+#section_1750979948 {
+  padding-top: 72px;
+  padding-bottom: 72px;
+  min-height: 620px;
+}
+#section_1750979948 .section-bg-overlay {
+  background-color: rgba(20,10,10,.5);
+}
+#section_1750979948 .section-bg img {
+  object-position: 68% 50%;
+}
+@media (min-width:550px) {
+  #section_1750979948 {
+    padding-top: 92px;
+    padding-bottom: 92px;
+    min-height: 620px;
+  }
+}
+@media (min-width:850px) {
+  #section_1750979948 {
+    padding-top: 110px;
+    padding-bottom: 110px;
+    min-height: 660px;
+  }
+}
