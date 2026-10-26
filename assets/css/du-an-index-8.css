@@ -1,4 +1,26 @@
 
-#image_1196792738 {
-  width: 100%;
+#section_1015861816 {
+  padding-top: 72px;
+  padding-bottom: 72px;
+  min-height: 560px;
+}
+#section_1015861816 .section-bg-overlay {
+  background-color: rgba(20,10,10,.54);
+}
+#section_1015861816 .section-bg img {
+  object-position: center;
+}
+@media (min-width:550px) {
+  #section_1015861816 {
+    padding-top: 92px;
+    padding-bottom: 92px;
+    min-height: 580px;
+  }
+}
+@media (min-width:850px) {
+  #section_1015861816 {
+    padding-top: 110px;
+    padding-bottom: 110px;
+    min-height: 620px;
+  }
 }

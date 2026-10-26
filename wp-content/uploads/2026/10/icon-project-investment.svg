@@ -1,0 +1,6 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Tổng mức đầu tư</title>
+  <desc id="desc">Biểu tượng tòa nhà cao tầng</desc>
+  <path d="M14 58V18.5L32 8l18 10.5V58" stroke="#D92128" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M8 58h48M22 23h4M38 23h4M22 31h4M38 31h4M22 39h4M38 39h4M22 47h4M38 47h4M30 58V47h4v11" stroke="#D92128" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

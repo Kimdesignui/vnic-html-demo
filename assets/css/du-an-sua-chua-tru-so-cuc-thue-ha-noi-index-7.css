@@ -1,0 +1,17 @@
+
+#section_1184839317 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  min-height: 560px;
+}
+#section_1184839317 .section-bg-overlay {
+  background-color: rgba(20,10,10,.42);
+}
+#section_1184839317 .section-bg img {
+  object-position: center;
+}
+@media (min-width:550px) {
+  #section_1184839317 {
+    min-height: 640px;
+  }
+}

@@ -1,0 +1,6 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Giải thưởng</title>
+  <desc id="desc">Biểu tượng cúp giải thưởng</desc>
+  <path d="M22 10h20v13c0 8-4 13-10 16-6-3-10-8-10-16V10Z" stroke="#D92128" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M22 15H12v5c0 6 4 10 11 10M42 15h10v5c0 6-4 10-11 10M32 39v9M23 56h18M27 48h10v8H27v-8Z" stroke="#D92128" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

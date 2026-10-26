@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-10-06T03:55:27.836Z",
+  "generatedAt": "2026-10-26T07:16:12.647Z",
   "pages": [
+    {
+      "file": "blocks/vnic-contact-cta/index.html",
+      "source": "http://vnic.local/blocks/vnic-contact-cta/"
+    },
+    {
+      "file": "blocks/vnic-footer/index.html",
+      "source": "http://vnic.local/blocks/vnic-footer/"
+    },
+    {
+      "file": "blocks/vnic-header-contact/index.html",
+      "source": "http://vnic.local/blocks/vnic-header-contact/"
+    },
     {
       "file": "category/chinh-sach-phap-luat/index.html",
       "source": "http://vnic.local/category/chinh-sach-phap-luat/"
@@ -20,6 +32,14 @@
     {
       "file": "category/tuyen-dung/index.html",
       "source": "http://vnic.local/category/tuyen-dung/"
+    },
+    {
+      "file": "chuyen-gia-nguyen-thi-hanh-nguyen/index.html",
+      "source": "http://vnic.local/chuyen-gia-nguyen-thi-hanh-nguyen/"
+    },
+    {
+      "file": "chuyen-gia-nguyen-thi-nhu-trang/index.html",
+      "source": "http://vnic.local/chuyen-gia-nguyen-thi-nhu-trang/"
     },
     {
       "file": "dich-vu/he-thong-ky-thuat-chuyen-nganh/index.html",
@@ -58,24 +78,76 @@
       "source": "http://vnic.local/du-an/dai-hoc-thai-nguyen-buoc-iii/"
     },
     {
+      "file": "du-an/du-an-compal-viet-nam/index.html",
+      "source": "http://vnic.local/du-an/du-an-compal-viet-nam/"
+    },
+    {
+      "file": "du-an/hotel-8-10-tang-antares-dai-duong/index.html",
+      "source": "http://vnic.local/du-an/hotel-8-10-tang-antares-dai-duong/"
+    },
+    {
       "file": "du-an/index.html",
       "source": "http://vnic.local/du-an/"
+    },
+    {
+      "file": "du-an/khu-dan-cu-ho-xa/index.html",
+      "source": "http://vnic.local/du-an/khu-dan-cu-ho-xa/"
+    },
+    {
+      "file": "du-an/khu-dan-cu-nong-thon-moi-thanh-thuy/index.html",
+      "source": "http://vnic.local/du-an/khu-dan-cu-nong-thon-moi-thanh-thuy/"
+    },
+    {
+      "file": "du-an/khu-do-thi-thanh-lam-dai-thinh-du-an/index.html",
+      "source": "http://vnic.local/du-an/khu-do-thi-thanh-lam-dai-thinh-du-an/"
     },
     {
       "file": "du-an/khu-du-lich-antares-dai-duong/index.html",
       "source": "http://vnic.local/du-an/khu-du-lich-antares-dai-duong/"
     },
     {
+      "file": "du-an/khu-retreat-antares-dai-duong/index.html",
+      "source": "http://vnic.local/du-an/khu-retreat-antares-dai-duong/"
+    },
+    {
       "file": "du-an/nha-o-xa-hoi-llvt-cand/index.html",
       "source": "http://vnic.local/du-an/nha-o-xa-hoi-llvt-cand/"
+    },
+    {
+      "file": "du-an/nha-o-xh-n1-n2-vsip-bac-ninh/index.html",
+      "source": "http://vnic.local/du-an/nha-o-xh-n1-n2-vsip-bac-ninh/"
+    },
+    {
+      "file": "du-an/sua-chua-tru-so-cuc-thue-ha-noi/index.html",
+      "source": "http://vnic.local/du-an/sua-chua-tru-so-cuc-thue-ha-noi/"
     },
     {
       "file": "du-an/tru-so-khoi-co-quan-pho-yen/index.html",
       "source": "http://vnic.local/du-an/tru-so-khoi-co-quan-pho-yen/"
     },
     {
+      "file": "du-an/trung-tam-hanh-chinh-binh-phuoc/index.html",
+      "source": "http://vnic.local/du-an/trung-tam-hanh-chinh-binh-phuoc/"
+    },
+    {
       "file": "du-an/truong-mam-non-vsip-bac-ninh/index.html",
       "source": "http://vnic.local/du-an/truong-mam-non-vsip-bac-ninh/"
+    },
+    {
+      "file": "du-an/truong-pt-noi-tru-cao-bang/index.html",
+      "source": "http://vnic.local/du-an/truong-pt-noi-tru-cao-bang/"
+    },
+    {
+      "file": "du-an-compal-viet-nam/index.html",
+      "source": "http://vnic.local/du-an-compal-viet-nam/"
+    },
+    {
+      "file": "gioi-thieu/chuyen-gia-nguyen-thi-hanh-nguyen/index.html",
+      "source": "http://vnic.local/gioi-thieu/chuyen-gia-nguyen-thi-hanh-nguyen/"
+    },
+    {
+      "file": "gioi-thieu/chuyen-gia-nguyen-thi-nhu-trang/index.html",
+      "source": "http://vnic.local/gioi-thieu/chuyen-gia-nguyen-thi-nhu-trang/"
     },
     {
       "file": "gioi-thieu/index.html",
@@ -86,8 +158,32 @@
       "source": "http://vnic.local/hanh-trinh-6-nam-vnic/"
     },
     {
+      "file": "hotel-8-10-tang-antares-dai-duong/index.html",
+      "source": "http://vnic.local/hotel-8-10-tang-antares-dai-duong/"
+    },
+    {
       "file": "index.html",
       "source": "http://vnic.local/"
+    },
+    {
+      "file": "khu-dan-cu-ho-xa/index.html",
+      "source": "http://vnic.local/khu-dan-cu-ho-xa/"
+    },
+    {
+      "file": "khu-dan-cu-nong-thon-moi-thanh-thuy/index.html",
+      "source": "http://vnic.local/khu-dan-cu-nong-thon-moi-thanh-thuy/"
+    },
+    {
+      "file": "khu-do-thi-thanh-lam-dai-thinh-du-an/index.html",
+      "source": "http://vnic.local/khu-do-thi-thanh-lam-dai-thinh-du-an/"
+    },
+    {
+      "file": "khu-retreat-antares-dai-duong/index.html",
+      "source": "http://vnic.local/khu-retreat-antares-dai-duong/"
+    },
+    {
+      "file": "kinh-nghiem-to-chuc-ho-so-thiet-ke-dong-bo/index.html",
+      "source": "http://vnic.local/kinh-nghiem-to-chuc-ho-so-thiet-ke-dong-bo/"
     },
     {
       "file": "lien-he/index.html",
@@ -98,8 +194,28 @@
       "source": "http://vnic.local/nang-luc-phap-ly/"
     },
     {
+      "file": "nha-o-xh-n1-n2-vsip-bac-ninh/index.html",
+      "source": "http://vnic.local/nha-o-xh-n1-n2-vsip-bac-ninh/"
+    },
+    {
+      "file": "nhung-luu-y-khi-lap-tong-muc-dau-tu/index.html",
+      "source": "http://vnic.local/nhung-luu-y-khi-lap-tong-muc-dau-tu/"
+    },
+    {
+      "file": "quan-ly-chat-luong-tu-ban-ve-den-hien-truong/index.html",
+      "source": "http://vnic.local/quan-ly-chat-luong-tu-ban-ve-den-hien-truong/"
+    },
+    {
       "file": "quy-trinh-lap-bao-cao-nghien-cuu-kha-thi/index.html",
       "source": "http://vnic.local/quy-trinh-lap-bao-cao-nghien-cuu-kha-thi/"
+    },
+    {
+      "file": "sua-chua-tru-so-cuc-thue-ha-noi/index.html",
+      "source": "http://vnic.local/sua-chua-tru-so-cuc-thue-ha-noi/"
+    },
+    {
+      "file": "thiet-ke-ben-vung-cho-do-thi-nhiet-doi/index.html",
+      "source": "http://vnic.local/thiet-ke-ben-vung-cho-do-thi-nhiet-doi/"
     },
     {
       "file": "thiet-ke-nha-o-xa-hoi-cao-tang/index.html",
@@ -114,8 +230,28 @@
       "source": "http://vnic.local/tin-tuc/"
     },
     {
+      "file": "toi-uu-khong-gian-trong-cong-trinh-giao-duc/index.html",
+      "source": "http://vnic.local/toi-uu-khong-gian-trong-cong-trinh-giao-duc/"
+    },
+    {
+      "file": "trung-tam-hanh-chinh-binh-phuoc/index.html",
+      "source": "http://vnic.local/trung-tam-hanh-chinh-binh-phuoc/"
+    },
+    {
+      "file": "truong-pt-noi-tru-cao-bang/index.html",
+      "source": "http://vnic.local/truong-pt-noi-tru-cao-bang/"
+    },
+    {
+      "file": "tu-y-tuong-den-cong-trinh-hoan-chinh/index.html",
+      "source": "http://vnic.local/tu-y-tuong-den-cong-trinh-hoan-chinh/"
+    },
+    {
       "file": "vnic-giai-nhi-benh-vien-viet-nam-thuy-dien-uong-bi/index.html",
       "source": "http://vnic.local/vnic-giai-nhi-benh-vien-viet-nam-thuy-dien-uong-bi/"
+    },
+    {
+      "file": "vnic-mo-rong-doi-ngu-chuyen-gia-tu-van/index.html",
+      "source": "http://vnic.local/vnic-mo-rong-doi-ngu-chuyen-gia-tu-van/"
     }
   ]
 }

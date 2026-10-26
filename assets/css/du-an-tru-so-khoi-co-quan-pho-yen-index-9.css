@@ -1,4 +1,11 @@
 
-#image_1656475309 {
-  width: 100%;
+#section_1812889292 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+#section_1812889292 .section-bg-overlay {
+  background-color: rgba(118,13,20,.9);
+}
+#section_1812889292 .section-bg img {
+  object-position: 70% 50%;
 }
