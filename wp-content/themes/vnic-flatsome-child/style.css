@@ -3225,6 +3225,10 @@ body > .vnic-project-lightbox {
   padding-top: 100px;
 }
 
+.vnic-expert-detail-section .row.align-middle {
+  align-items: flex-start;
+}
+
 .vnic-expert-detail-copy h2 {
   font-size: var(--vnic-type-editorial-title);
   line-height: 1.08;
