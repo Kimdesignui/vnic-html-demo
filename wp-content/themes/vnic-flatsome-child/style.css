@@ -3244,6 +3244,10 @@ body > .vnic-project-lightbox {
   background: var(--vnic-warm);
 }
 
+.vnic-expert-professional-section > .section-bg.fill {
+  background: var(--vnic-warm);
+}
+
 .vnic-expert-professional-section .vnic-expert-detail-copy,
 .vnic-expert-professional-section .vnic-expert-detail-project {
   flex-basis: auto;
