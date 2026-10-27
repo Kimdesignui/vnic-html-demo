@@ -3240,6 +3240,10 @@ body > .vnic-project-lightbox {
   flex-direction: column;
 }
 
+.vnic-expert-professional-section {
+  background: var(--vnic-warm);
+}
+
 .vnic-expert-professional-section .vnic-expert-detail-copy,
 .vnic-expert-professional-section .vnic-expert-detail-project {
   flex-basis: auto;
